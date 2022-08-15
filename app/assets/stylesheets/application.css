@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+  background-color: #E6E6EA;
+ }
+
+ .form {
+  background-color: #009FB7;
+  color: E6E6EA;
+  justify-content: center;
+  padding: 100px 100px;
+  width: 50%;
+  margin: 25px auto;
+  border-radius: 5px;
+ }
+
+ .btn {
+  background-color: #FE4A49 !important
+ }
